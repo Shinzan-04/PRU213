@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: aabd76dd96e277a4c96d9f7c35b918b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3128906146521517075
+    second: vattrangtri_0
+  - first:
+      213: -813231565535012305
+    second: vattrangtri_1
+  - first:
+      213: 4551872352128592751
+    second: vattrangtri_2
+  - first:
+      213: 5871757238801784488
+    second: vattrangtri_3
+  - first:
+      213: -6835405005203240575
+    second: vattrangtri_4
+  - first:
+      213: -108940253174749304
+    second: vattrangtri_5
+  - first:
+      213: 7812292550985766847
+    second: vattrangtri_6
+  - first:
+      213: 1340528682388015859
+    second: vattrangtri_7
+  - first:
+      213: -199617947637787836
+    second: vattrangtri_8
+  - first:
+      213: 6227224157036457965
+    second: vattrangtri_9
+  - first:
+      213: -2250326983615083595
+    second: vattrangtri_10
+  - first:
+      213: -2115647748622297762
+    second: vattrangtri_11
+  - first:
+      213: -7105271292190230237
+    second: vattrangtri_12
+  - first:
+      213: 6739146889031131595
+    second: vattrangtri_13
+  - first:
+      213: -2301782783940177614
+    second: vattrangtri_14
+  - first:
+      213: 2487554354683809338
+    second: vattrangtri_15
+  - first:
+      213: 5500019240252178062
+    second: vattrangtri_16
+  - first:
+      213: 8371767842283009267
+    second: vattrangtri_17
+  - first:
+      213: 2957377647381321644
+    second: vattrangtri_18
+  - first:
+      213: 8719922791535735686
+    second: vattrangtri_19
+  - first:
+      213: 8925547100751371117
+    second: vattrangtri_20
+  - first:
+      213: -2682972990406336326
+    second: vattrangtri_21
+  - first:
+      213: -7821417212875479813
+    second: vattrangtri_22
+  - first:
+      213: -92651699069119018
+    second: vattrangtri_23
+  - first:
+      213: -9102711073373854828
+    second: vattrangtri_24
+  - first:
+      213: -1919786708612071606
+    second: vattrangtri_25
+  - first:
+      213: 7997350604630775586
+    second: vattrangtri_26
+  - first:
+      213: 7372485890565372197
+    second: vattrangtri_27
+  - first:
+      213: 1156233260177415425
+    second: vattrangtri_28
+  - first:
+      213: 2939649272321097361
+    second: vattrangtri_29
+  - first:
+      213: -6443403023544743815
+    second: vattrangtri_30
+  - first:
+      213: 5001285616981812667
+    second: vattrangtri_31
+  - first:
+      213: 8437381731214713022
+    second: vattrangtri_32
+  - first:
+      213: -8326978637172071472
+    second: vattrangtri_33
+  - first:
+      213: 3452027981763510393
+    second: vattrangtri_34
+  - first:
+      213: -9108837005166604271
+    second: vattrangtri_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vattrangtri_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 320
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c83f6009b1c6b20800000000000000
+      internalID: 3128906146521517075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vattrangtri_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 320
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a96282332d6b4f0800000000000000
+      internalID: -813231565535012305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vattrangtri_2
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 320
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6beb8399cf7b2f30800000000000000
+      internalID: 4551872352128592751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vattrangtri_3
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 320
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aedb1a491cac7150800000000000000
+      internalID: 5871757238801784488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vattrangtri_4
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 324
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1890fe00d53c321a0800000000000000
+      internalID: -6835405005203240575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vattrangtri_5
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 322
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88727cbba67fc7ef0800000000000000
+      internalID: -108940253174749304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vattrangtri_6
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 324
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7dfee0fa6da6c60800000000000000
+      internalID: 7812292550985766847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vattrangtri_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 206
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fac5f4fbb38a9210800000000000000
+      internalID: 1340528682388015859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vattrangtri_8
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 206
+        width: 15
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443d144c880da3df0800000000000000
+      internalID: -199617947637787836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vattrangtri_9
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 206
+        width: 14
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defa3e8a06b8b6650800000000000000
+      internalID: 6227224157036457965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vattrangtri_10
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 246
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb8529f78b35c0e0800000000000000
+      internalID: -2250326983615083595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vattrangtri_11
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 246
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e555381f495b3a2e0800000000000000
+      internalID: -2115647748622297762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vattrangtri_12
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 246
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3297834b761056d90800000000000000
+      internalID: -7105271292190230237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vattrangtri_13
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 246
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc121e9d362468d50800000000000000
+      internalID: 6739146889031131595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vattrangtri_14
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 242
+        width: 75
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231d22dd0cc6e00e0800000000000000
+      internalID: -2301782783940177614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vattrangtri_15
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 124
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e87668181958220800000000000000
+      internalID: 2487554354683809338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vattrangtri_16
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 124
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e7b01db5ef35c40800000000000000
+      internalID: 5500019240252178062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vattrangtri_17
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 124
+        width: 44
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4315d3f7e7e2470800000000000000
+      internalID: 8371767842283009267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vattrangtri_18
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 124
+        width: 50
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca718da2d47ba0920800000000000000
+      internalID: 2957377647381321644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vattrangtri_19
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 171
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683f15a2493630970800000000000000
+      internalID: 8719922791535735686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vattrangtri_20
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 171
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b9d4e6cc9eddb70800000000000000
+      internalID: 8925547100751371117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vattrangtri_21
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 171
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0ecdcb74a24cad0800000000000000
+      internalID: -2682972990406336326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vattrangtri_22
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 44
+        width: 84
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf46e6a0c7eb47390800000000000000
+      internalID: -7821417212875479813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vattrangtri_23
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 44
+        width: 73
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5162545c5d6bef0800000000000000
+      internalID: -92651699069119018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vattrangtri_24
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 38
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493698ac18caca180800000000000000
+      internalID: -9102711073373854828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vattrangtri_25
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 51
+        width: 73
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f39a4f82c8b55e0800000000000000
+      internalID: -1919786708612071606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vattrangtri_26
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 54
+        width: 121
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227d54dc00c4cfe60800000000000000
+      internalID: 7997350604630775586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vattrangtri_27
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 7
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5297aba3bd4505660800000000000000
+      internalID: 7372485890565372197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vattrangtri_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 8
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ddd5e2604cb0010800000000000000
+      internalID: 1156233260177415425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vattrangtri_29
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 6
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e3fe0307bbbc820800000000000000
+      internalID: 2939649272321097361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vattrangtri_30
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 11
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97800f4b61f6496a0800000000000000
+      internalID: -6443403023544743815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vattrangtri_31
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 10
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5a87c45c2286540800000000000000
+      internalID: 5001285616981812667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vattrangtri_32
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 6
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb06c6b3bf9971570800000000000000
+      internalID: 8437381731214713022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vattrangtri_33
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 6
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3a7173c01a07c80800000000000000
+      internalID: -8326978637172071472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vattrangtri_34
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 5
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97009b7e82118ef20800000000000000
+      internalID: 3452027981763510393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vattrangtri_35
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 2
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1109c162109e69180800000000000000
+      internalID: -9108837005166604271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      vattrangtri_0: 3128906146521517075
+      vattrangtri_1: -813231565535012305
+      vattrangtri_10: -2250326983615083595
+      vattrangtri_11: -2115647748622297762
+      vattrangtri_12: -7105271292190230237
+      vattrangtri_13: 6739146889031131595
+      vattrangtri_14: -2301782783940177614
+      vattrangtri_15: 2487554354683809338
+      vattrangtri_16: 5500019240252178062
+      vattrangtri_17: 8371767842283009267
+      vattrangtri_18: 2957377647381321644
+      vattrangtri_19: 8719922791535735686
+      vattrangtri_2: 4551872352128592751
+      vattrangtri_20: 8925547100751371117
+      vattrangtri_21: -2682972990406336326
+      vattrangtri_22: -7821417212875479813
+      vattrangtri_23: -92651699069119018
+      vattrangtri_24: -9102711073373854828
+      vattrangtri_25: -1919786708612071606
+      vattrangtri_26: 7997350604630775586
+      vattrangtri_27: 7372485890565372197
+      vattrangtri_28: 1156233260177415425
+      vattrangtri_29: 2939649272321097361
+      vattrangtri_3: 5871757238801784488
+      vattrangtri_30: -6443403023544743815
+      vattrangtri_31: 5001285616981812667
+      vattrangtri_32: 8437381731214713022
+      vattrangtri_33: -8326978637172071472
+      vattrangtri_34: 3452027981763510393
+      vattrangtri_35: -9108837005166604271
+      vattrangtri_4: -6835405005203240575
+      vattrangtri_5: -108940253174749304
+      vattrangtri_6: 7812292550985766847
+      vattrangtri_7: 1340528682388015859
+      vattrangtri_8: -199617947637787836
+      vattrangtri_9: 6227224157036457965
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

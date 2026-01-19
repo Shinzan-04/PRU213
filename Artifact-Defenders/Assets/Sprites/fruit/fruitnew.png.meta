@@ -1,0 +1,528 @@
+fileFormatVersion: 2
+guid: a2a60a8e9822df54bb90c349d66af1d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3830743837169507625
+    second: fruitnew_0
+  - first:
+      213: -5997861123156223516
+    second: fruitnew_1
+  - first:
+      213: -7412700440875638451
+    second: fruitnew_2
+  - first:
+      213: -2281711232479719563
+    second: fruitnew_3
+  - first:
+      213: -717850369508335995
+    second: fruitnew_4
+  - first:
+      213: -4495405680895667120
+    second: fruitnew_5
+  - first:
+      213: -7436751315472746870
+    second: fruitnew_6
+  - first:
+      213: -8079383576704502278
+    second: fruitnew_7
+  - first:
+      213: -1746334168603736915
+    second: fruitnew_8
+  - first:
+      213: -2781060398513773800
+    second: fruitnew_9
+  - first:
+      213: -2243313722462430746
+    second: fruitnew_10
+  - first:
+      213: 3806350293323873654
+    second: fruitnew_11
+  - first:
+      213: -6423804055600407904
+    second: fruitnew_12
+  - first:
+      213: -4588350555180660938
+    second: fruitnew_13
+  - first:
+      213: -3891235413616694452
+    second: fruitnew_14
+  - first:
+      213: -5012480825104567776
+    second: fruitnew_15
+  - first:
+      213: -6576247524235768388
+    second: fruitnew_16
+  - first:
+      213: -5447806884696345219
+    second: fruitnew_17
+  - first:
+      213: -4865061140533541456
+    second: fruitnew_18
+  - first:
+      213: -8428312411412984930
+    second: fruitnew_19
+  - first:
+      213: -7161834862214546615
+    second: fruitnew_20
+  - first:
+      213: 5283851111915108680
+    second: fruitnew_21
+  - first:
+      213: 9070217659113161782
+    second: fruitnew_22
+  - first:
+      213: -3756674785445702583
+    second: fruitnew_23
+  - first:
+      213: -6445548759147178281
+    second: fruitnew_24
+  - first:
+      213: -427952816774413707
+    second: fruitnew_25
+  - first:
+      213: -448200627665101498
+    second: fruitnew_26
+  - first:
+      213: 5413670692050322408
+    second: fruitnew_27
+  - first:
+      213: 1529861298073269891
+    second: fruitnew_28
+  - first:
+      213: -7143715876553014125
+    second: fruitnew_29
+  - first:
+      213: -5757934447912397204
+    second: fruitnew_30
+  - first:
+      213: -1190279279323736289
+    second: fruitnew_31
+  - first:
+      213: -7296178978728421316
+    second: fruitnew_32
+  - first:
+      213: -8147537892206887535
+    second: fruitnew_33
+  - first:
+      213: 8476279752014524468
+    second: fruitnew_34
+  - first:
+      213: -6173373467325805934
+    second: fruitnew_35
+  - first:
+      213: -5096819238606520701
+    second: fruitnew_36
+  - first:
+      213: -8421113549175682369
+    second: fruitnew_37
+  - first:
+      213: -5154113052562538648
+    second: fruitnew_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fruitnew_19
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 273
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b86b5548e980b80800000000000000
+      internalID: -8428312411412984930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruitnew_20
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 273
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b71b9432d0c9c90800000000000000
+      internalID: -7161834862214546615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruitnew_21
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 273
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849b0cb5792045940800000000000000
+      internalID: 5283851111915108680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruitnew_23
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 273
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94497d4bf2c9ddbc0800000000000000
+      internalID: -3756674785445702583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruitnew_26
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 197
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d1aef57eba7c9f0800000000000000
+      internalID: -448200627665101498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruitnew_27
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 197
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e34a92cfc8312b40800000000000000
+      internalID: 5413670692050322408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruitnew_28
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 197
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386764bbeb82b3510800000000000000
+      internalID: 1529861298073269891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruitnew_30
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 120
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6652306025b710b0800000000000000
+      internalID: -5757934447912397204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruitnew_31
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 120
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1796644d474b7fe0800000000000000
+      internalID: -1190279279323736289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruitnew_33
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 124
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d39fc54712eee80800000000000000
+      internalID: -8147537892206887535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fruitnew_38
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 48
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f3ec18c79e878b0800000000000000
+      internalID: -5154113052562538648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e791b3624e9798746be4ced30bc83239
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fruitnew_0: 3830743837169507625
+      fruitnew_1: -5997861123156223516
+      fruitnew_10: -2243313722462430746
+      fruitnew_11: 3806350293323873654
+      fruitnew_12: -6423804055600407904
+      fruitnew_13: -4588350555180660938
+      fruitnew_14: -3891235413616694452
+      fruitnew_15: -5012480825104567776
+      fruitnew_16: -6576247524235768388
+      fruitnew_17: -5447806884696345219
+      fruitnew_18: -4865061140533541456
+      fruitnew_19: -8428312411412984930
+      fruitnew_2: -7412700440875638451
+      fruitnew_20: -7161834862214546615
+      fruitnew_21: 5283851111915108680
+      fruitnew_22: 9070217659113161782
+      fruitnew_23: -3756674785445702583
+      fruitnew_24: -6445548759147178281
+      fruitnew_25: -427952816774413707
+      fruitnew_26: -448200627665101498
+      fruitnew_27: 5413670692050322408
+      fruitnew_28: 1529861298073269891
+      fruitnew_29: -7143715876553014125
+      fruitnew_3: -2281711232479719563
+      fruitnew_30: -5757934447912397204
+      fruitnew_31: -1190279279323736289
+      fruitnew_32: -7296178978728421316
+      fruitnew_33: -8147537892206887535
+      fruitnew_34: 8476279752014524468
+      fruitnew_35: -6173373467325805934
+      fruitnew_36: -5096819238606520701
+      fruitnew_37: -8421113549175682369
+      fruitnew_38: -5154113052562538648
+      fruitnew_4: -717850369508335995
+      fruitnew_5: -4495405680895667120
+      fruitnew_6: -7436751315472746870
+      fruitnew_7: -8079383576704502278
+      fruitnew_8: -1746334168603736915
+      fruitnew_9: -2781060398513773800
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
